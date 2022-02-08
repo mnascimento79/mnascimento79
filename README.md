@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mnascimento79
-- 👀 I’m interested in arduino, raspberry, weather stations, python.
+- 👀 I’m interested in photography, arduino, raspberry, weather stations, python.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on projects on day..
+- 💞️ I’m looking to collaborate on projects one day..
 - 📫 You can reach me via instagram (@mnascimentophoto)
 
 <!---
